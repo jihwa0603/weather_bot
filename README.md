@@ -25,11 +25,14 @@
 ### 1. 필수 라이브러리 설치
 
 프로젝트를 실행하기 전에 필요한 모든 외부 라이브러리들을 설치해야 합니다. 다음 명령어를 실행하면 **`requirements.txt`** 파일에 명시된 목록을 바탕으로 모든 의존성 패키지들을 한 번에 설치할 수 있습니다. 이는 개발 환경을 빠르고 효율적으로 구축하는 데 필수적인 과정입니다.  
->`pip install -r requirements.txt`  
+>`pip install -r requirements.txt`
+
 혹은  
+
 >`pip install requests`
 >`pip install python-telegram-bot`
 를 통해 개별적으로 라이브러리를 다운로드해야 합니다.
+
 ### 2. API 키 설정
 
 프로젝트를 정상적으로 실행하려면 두 가지 중요한 API 키가 필요합니다. 이 키들은 코드에 직접 입력하여 사용하게 됩니다.
