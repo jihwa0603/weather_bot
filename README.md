@@ -29,7 +29,7 @@
 
 혹은  
 
->`pip install requests`
+>`pip install requests`  
 >`pip install python-telegram-bot`
 를 통해 개별적으로 라이브러리를 다운로드해야 합니다.
 
