@@ -14,7 +14,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-OPENWEATHERMAP_API_KEY = "81f0fca1547711d858d467e47754a65d"
+OPENWEATHERMAP_API_KEY = ""
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 TELEGRAM_BOT_TOKEN = "8336834023:AAEhF9sh8V7NTZc8MAqlniU7dOlXSY0eEcY"
 
