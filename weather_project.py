@@ -16,7 +16,7 @@ logging.basicConfig(
 
 OPENWEATHERMAP_API_KEY = ""
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
-TELEGRAM_BOT_TOKEN = "8336834023:AAEhF9sh8V7NTZc8MAqlniU7dOlXSY0eEcY"
+TELEGRAM_BOT_TOKEN = ""
 
 # 마지막 봇 메시지 ID 저장
 last_bot_message_id = None
